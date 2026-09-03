@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.ibb.co/Z5B7q0h/firoz-kabir.png"
+    src="./firoz kabir.png"
     alt="Firoz Kabir - Web Developer"
     width="100%"
     style="border: 2px solid #d9b65c; border-radius: 20px;"
