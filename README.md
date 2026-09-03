@@ -9,7 +9,7 @@
 
 
 # Hi! I'm Firoz Kabir  
-###  I build things with JavaScript, React, and Node.js & skilled in WordPress
+####  I build things with JavaScript, React, and Node.js & skilled in WordPress
 
 ---
 
